@@ -13,3 +13,8 @@ Way to use it
     NSData* data=[NSData dataWithContentsOfFile:strXML];
     NSDictionary* dictionary =[CXMLParser dictionaryForXMLData:data error:nil];
     
+    
+    
+Find more information about this class is here
+
+https://sites.google.com/site/greateindiaclub/mobil-apps/ios/convertxmltonsdictionaryinios
